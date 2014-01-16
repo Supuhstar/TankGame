@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{AD302A2F-2DA9-8EF1-7B52-2E092F3F7C45}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_3_5_5;UNITY_3_5;UNITY_EDITOR;ENABLE_PROFILER;UNITY_STANDALONE_WIN;ENABLE_GENERICS;ENABLE_DUCK_TYPING;ENABLE_TERRAIN;ENABLE_MOVIES;ENABLE_WEBCAM;ENABLE_MICROPHONE;ENABLE_NETWORK;ENABLE_CLOTH;ENABLE_WWW;ENABLE_SUBSTANCE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\_Scripts\character\scr_HudGui.cs" />
+     <Compile Include="Assets\_Scripts\character\scr_PlayerShoot.cs" />
+     <Compile Include="Assets\_Scripts\character\scr_cameraFollow.cs" />
+     <Compile Include="Assets\_Scripts\character\scr_cameraFollow2.cs" />
+     <Compile Include="Assets\_Scripts\character\scr_char_Controll_1.cs" />
+     <Compile Include="Assets\_Scripts\character\scr_char_Controll_2.cs" />
+     <Compile Include="Assets\_Scripts\character\scr_char_tank_Cntrl.cs" />
+     <Compile Include="Assets\_Scripts\gameController\scr_gameController.cs" />
+     <Compile Include="Assets\_Scripts\health\scr_health.cs" />
+     <Compile Include="Assets\_Scripts\npc\npc_Controller.cs" />
+     <Compile Include="Assets\_Scripts\npc\npc_autoShoot.cs" />
+     <Compile Include="Assets\_Scripts\npc\npc_burn.cs" />
+     <Compile Include="Assets\_Scripts\npc\npc_hitDectection.cs" />
+     <Compile Include="Assets\_Scripts\npc\npc_selectable.cs" />
+     <Compile Include="Assets\_Scripts\projectile\scr_SimpleBullet.cs" />
+     <Compile Include="Assets\_Scripts\simple movement collection\dead reckoning method\scr_movement_ATC.cs" />
+     <Compile Include="Assets\_Scripts\simple movement collection\dead reckoning method\scr_movement_ForwardSpeedDummy.cs" />
+     <Compile Include="Assets\_Scripts\simple movement collection\dead reckoning method\scr_movement_turning.cs" />
+     <Compile Include="Assets\_Scripts\simple movement collection\goal target method\dummy_GT_forward.cs" />
+     <Compile Include="Assets\_Scripts\simple movement collection\goal target method\scr_mover_taget_Logic.cs" />
+     <Compile Include="Assets\_Scripts\simple movement collection\goal target method\scr_mover_target_ATC.cs" />
+     <Compile Include="Assets\_Scripts\simple movement collection\goal target method\scr_navPoint.cs" />
+     <Compile Include="Assets\_Scripts\simple movement collection\goal target method\scr_pointAtCenter.cs" />
+     <Compile Include="Assets\_Scripts\simple movement collection\goal target method\scr_pointAtTarget.cs" />
+     <Compile Include="Assets\_Scripts\simple movement collection\goal target method\scr_simple_turnToTarget.cs" />
+     <Compile Include="Assets\_Scripts\simple movement collection\goal target method\scr_turnToTarget.cs" />
+     <Compile Include="Assets\_Scripts\simple movement collection\scr_turretToTarget2d.cs" />
+     <Compile Include="Assets\_Scripts\simple movement collection\scraps\example.cs" />
+     <Compile Include="Assets\_Scripts\simple movement collection\scraps\scr_simpleMove.cs" />
+     <Compile Include="Assets\_Scripts\simple movement collection\scraps\scr_simpleMovement2.cs" />
+     <Compile Include="Assets\_Scripts\simple movement collection\scraps\scr_turnToHeading.cs" />
+     <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
+ <Reference Include="Assembly-UnityScript-firstpass">
+ <HintPath>Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>
