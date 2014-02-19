@@ -17,13 +17,53 @@ Platform assembly: C:\Users\Mirisido\Documents\ULinkGameTest\server_Data\Managed
 Loading C:\Users\Mirisido\Documents\ULinkGameTest\server_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
 Platform assembly: C:\Users\Mirisido\Documents\ULinkGameTest\server_Data\Managed\uLink.dll (this message is harmless)
 Loading C:\Users\Mirisido\Documents\ULinkGameTest\server_Data\Managed\uLink.dll into Unity Child Domain
-- Completed reload, in  0.059 seconds
+- Completed reload, in  0.189 seconds
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 Platform assembly: C:\Users\Mirisido\Documents\ULinkGameTest\server_Data\Managed\System.dll (this message is harmless)
 Platform assembly: C:\Users\Mirisido\Documents\ULinkGameTest\server_Data\Managed\System.Core.dll (this message is harmless)
 Server successfully started on port 7100
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+This uLink evaluation license is temporary. You will need to purchase a full license at muchdifferent.com/ulink. If you've bought uLink from the Asset Store, please contact sales@muchdifferent.com to get your license key.
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+No receiver found for RPC 'PrintText' at uLinkNetworkView "CreatorPrefab(Clone)" (ViewID 2001)
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+No receiver found for RPC 'PrintText' at uLinkNetworkView "CreatorPrefab(Clone)" (ViewID 2000)
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+No receiver found for RPC 'PrintText' at uLinkNetworkView "CreatorPrefab(Clone)" (ViewID 2000)
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+No receiver found for RPC 'PrintText' at uLinkNetworkView "CreatorPrefab(Clone)" (ViewID 2000)
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+No receiver found for RPC 'PrintText' at uLinkNetworkView "CreatorPrefab(Clone)" (ViewID 2000)
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+No receiver found for RPC 'PrintText' at uLinkNetworkView "CreatorPrefab(Clone)" (ViewID 2000)
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+No receiver found for RPC 'PrintText' at uLinkNetworkView "CreatorPrefab(Clone)" (ViewID 2000)
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+No receiver found for RPC 'PrintText' at uLinkNetworkView "CreatorPrefab(Clone)" (ViewID 2000)
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+No receiver found for RPC 'PrintText' at uLinkNetworkView "CreatorPrefab(Clone)" (ViewID 2000)
  
 (Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 

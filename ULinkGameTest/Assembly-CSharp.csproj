@@ -44,6 +44,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\_Scripts\Follow.cs" />
+     <Compile Include="Assets\_Scripts\MessGet.cs" />
+     <Compile Include="Assets\_Scripts\MessSend.cs" />
      <Compile Include="Assets\_Scripts\Spawner.cs" />
      <None Include="Assets\Plugins\uLink\Assembly\uLink.xml" />
      <None Include="Assets\Resources\uLinkPrefs.txt" />
