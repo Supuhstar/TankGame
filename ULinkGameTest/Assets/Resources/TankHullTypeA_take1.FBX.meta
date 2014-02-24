@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: c002d30f67d982a44804fe4854799bda
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Drive Roller 05
+    100002: Drive Roller 06
+    100004: Group01
+    100006: Group02
+    100008: hull 01
+    100010: Roller 43
+    100012: Roller 48
+    100014: Roller 50
+    100016: Roller 51
+    100018: Roller 52
+    100020: Roller 53
+    100022: Roller 54
+    100024: Roller 55
+    100026: Roller 56
+    100028: Roller 57
+    100030: Roller 58
+    100032: Roller 59
+    100034: Roller 60
+    100036: Roller 61
+    100038: //RootNode
+    100040: Tension Roller 06
+    100042: Tension Roller 07
+    100044: tortion bar 49
+    100046: tortion bar 52
+    100048: tortion bar 53
+    100050: tortion bar 54
+    100052: tortion bar 55
+    100054: tortion bar 56
+    100056: tortion bar 57
+    100058: tortion bar 58
+    100060: tortion bar 59
+    100062: tortion bar 60
+    100064: Tube04
+    100066: Tube05
+    400000: Drive Roller 05
+    400002: Drive Roller 06
+    400004: Group01
+    400006: Group02
+    400008: hull 01
+    400010: Roller 43
+    400012: Roller 48
+    400014: Roller 50
+    400016: Roller 51
+    400018: Roller 52
+    400020: Roller 53
+    400022: Roller 54
+    400024: Roller 55
+    400026: Roller 56
+    400028: Roller 57
+    400030: Roller 58
+    400032: Roller 59
+    400034: Roller 60
+    400036: Roller 61
+    400038: //RootNode
+    400040: Tension Roller 06
+    400042: Tension Roller 07
+    400044: tortion bar 49
+    400046: tortion bar 52
+    400048: tortion bar 53
+    400050: tortion bar 54
+    400052: tortion bar 55
+    400054: tortion bar 56
+    400056: tortion bar 57
+    400058: tortion bar 58
+    400060: tortion bar 59
+    400062: tortion bar 60
+    400064: Tube04
+    400066: Tube05
+    2300000: Drive Roller 05
+    2300002: Drive Roller 06
+    2300004: hull 01
+    2300006: Roller 43
+    2300008: Roller 48
+    2300010: Roller 50
+    2300012: Roller 51
+    2300014: Roller 52
+    2300016: Roller 53
+    2300018: Roller 54
+    2300020: Roller 55
+    2300022: Roller 56
+    2300024: Roller 57
+    2300026: Roller 58
+    2300028: Roller 59
+    2300030: Roller 60
+    2300032: Roller 61
+    2300034: Tension Roller 06
+    2300036: Tension Roller 07
+    2300038: tortion bar 49
+    2300040: tortion bar 52
+    2300042: tortion bar 53
+    2300044: tortion bar 54
+    2300046: tortion bar 55
+    2300048: tortion bar 56
+    2300050: tortion bar 57
+    2300052: tortion bar 58
+    2300054: tortion bar 59
+    2300056: tortion bar 60
+    2300058: Tube04
+    2300060: Tube05
+    3300000: Drive Roller 05
+    3300002: Drive Roller 06
+    3300004: hull 01
+    3300006: Roller 43
+    3300008: Roller 48
+    3300010: Roller 50
+    3300012: Roller 51
+    3300014: Roller 52
+    3300016: Roller 53
+    3300018: Roller 54
+    3300020: Roller 55
+    3300022: Roller 56
+    3300024: Roller 57
+    3300026: Roller 58
+    3300028: Roller 59
+    3300030: Roller 60
+    3300032: Roller 61
+    3300034: Tension Roller 06
+    3300036: Tension Roller 07
+    3300038: tortion bar 49
+    3300040: tortion bar 52
+    3300042: tortion bar 53
+    3300044: tortion bar 54
+    3300046: tortion bar 55
+    3300048: tortion bar 56
+    3300050: tortion bar 57
+    3300052: tortion bar 58
+    3300054: tortion bar 59
+    3300056: tortion bar 60
+    3300058: Tube04
+    3300060: Tube05
+    4300000: Roller 51
+    4300002: Roller 43
+    4300004: Drive Roller 05
+    4300006: Tension Roller 06
+    4300008: Roller 48
+    4300010: Roller 50
+    4300012: tortion bar 49
+    4300014: Tube04
+    4300016: tortion bar 55
+    4300018: tortion bar 52
+    4300020: Roller 52
+    4300022: tortion bar 53
+    4300024: Roller 53
+    4300026: tortion bar 54
+    4300028: Roller 54
+    4300030: Roller 55
+    4300032: Roller 56
+    4300034: Drive Roller 06
+    4300036: Tension Roller 07
+    4300038: Roller 57
+    4300040: Roller 58
+    4300042: tortion bar 56
+    4300044: Tube05
+    4300046: tortion bar 57
+    4300048: tortion bar 58
+    4300050: Roller 59
+    4300052: tortion bar 59
+    4300054: Roller 60
+    4300056: tortion bar 60
+    4300058: Roller 61
+    4300060: hull 01
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

@@ -1,43 +1,51 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+
 public class MessSend : MonoBehaviour {
 	
 	public string messtest = "NOTHING";
-	public bool test = true;
+
+	public enum Type
+	{
+		/** Represents a slow-shot cannon */
+		CANNON,
+		/** Represents a rapid-shot gun */
+		RAPID
+	}
 	
 	// Use this for initialization
 	void Start () {
 	
 	}
 	
-	[RPC]
+	/*[RPC]
 	void PrintText(string text)
 	{
     	Debug.Log(text);
-	}
+	}*/
 	
-	
+	public float expiry = 0;
+	bool fired = false;
+	public Type currentType = Type.CANNON;
 	// Update is called once per frame
-	void Update () {		
-		if (Input.GetKeyDown("space"))
+	void Update () {
+		expiry += Time.deltaTime;
+		if (expiry >= .1) // every tenth of a second, or ten times a second
 		{
-			if (Input.GetKey(KeyCode.W))
+			expiry = 0;
+			float fire1 = Input.GetAxis("Fire1");
+			if (fire1 != 0)
+				fired = true;
+			if (currentType == Type.CANNON)
 			{
-				messtest = "W";
+				if (fired)
+					fired = 
 			}
-			if (Input.GetKey(KeyCode.A))
-			{
-				messtest = "A";	
-			}
-			if (Input.GetKey(KeyCode.S))
-			{
-				messtest = "S";	
-			}
-			if (Input.GetKey(KeyCode.D))
-			{
-				messtest = "D";	
-			}
+			messtest =
+				"left " + Input.GetAxis("LeftTread") +
+				"; right " + Input.GetAxis("RightTread") +
+				"; fire " + fire1;
 			
 			uLink.NetworkView.Get(this).RPC("PrintText", uLink.RPCMode.Server, messtest);
 		}	
