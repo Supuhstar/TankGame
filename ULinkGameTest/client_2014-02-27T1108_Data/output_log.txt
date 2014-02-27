@@ -184,3 +184,12 @@ uLink.InternalHelper:LateUpdate()
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
+This uLink evaluation license is temporary. You will need to purchase a full license at muchdifferent.com/ulink. If you've bought uLink from the Asset Store, please contact sales@muchdifferent.com to get your license key.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+#=qi4CVMAFaFSdKxXmzr46dbkAuLshsB8XajRceq6g9X6I=:#=qZjCYwGHBnQaQ7H10oYj6sw==()
+#=qi4CVMAFaFSdKxXmzr46dbkAuLshsB8XajRceq6g9X6I=:#=qxP65AVrXPmZOsXkJgNVJpg==()
+uLink.InternalHelper:LateUpdate()
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
