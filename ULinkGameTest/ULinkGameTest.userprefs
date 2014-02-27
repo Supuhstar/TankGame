@@ -1,12 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\MessSend.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\PlayerNet.cs">
     <Files>
-      <File FileName="..\..\TheSeasHaveEyes\Unity Project\Assets\Daikon Forge\DFGUI\Editor\dfGUIWizard.cs" Line="74" Column="27" />
-      <File FileName="Assets\_Scripts\Spawner.cs" Line="1" Column="1" />
-      <File FileName="Assets\_Scripts\Follow.cs" Line="1" Column="1" />
-      <File FileName="Assets\_Scripts\MessGet.cs" Line="1" Column="1" />
-      <File FileName="Assets\_Scripts\MessSend.cs" Line="43" Column="14" />
+      <File FileName="Assets\_Scripts\PlayerNet.cs" Line="26" Column="3" />
+      <File FileName="Assets\_Scripts\ServerNet.cs" Line="19" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
