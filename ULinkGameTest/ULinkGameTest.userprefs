@@ -1,9 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\ServerNet.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\Dropbox\Games\Bluema\Assets\Standard Assets\Scripts\Camera Scripts\SmoothLookAt.js">
     <Files>
-      <File FileName="Assets\_Scripts\PlayerNet.cs" Line="24" Column="5" />
-      <File FileName="Assets\_Scripts\ServerNet.cs" Line="19" Column="18" />
+      <File FileName="..\..\..\..\Dropbox\Games\Bluema\Assets\Standard Assets (Mobile)\Scripts\RollABall.js" Line="39" Column="25" />
+      <File FileName="..\..\..\..\Dropbox\Games\Bluema\Assets\Standard Assets (Mobile)\Scripts\FollowTransform.js" Line="24" Column="40" />
+      <File FileName="..\..\..\..\Dropbox\Games\Bluema\Assets\Standard Assets\Scripts\Camera Scripts\SmoothLookAt.js" Line="25" Column="19" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
