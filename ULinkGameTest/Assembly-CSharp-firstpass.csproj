@@ -72,10 +72,35 @@
      <Compile Include="Assets\Plugins\uLink\Utility Scripts\uLinkStrictPlatformer.cs" />
      <Compile Include="Assets\Plugins\uLink\Utility Scripts\uLinkTargetFrameRateFix.cs" />
      <Compile Include="Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
+     <None Include="Assets\Daikon Forge\Examples\Skins\Fantasy\Fonts\Open Sans\Heiro-OpenSans-Regular-24px.fnt" />
+     <None Include="Assets\Daikon Forge\Examples\Labels\Atlas\Huggable32.fnt" />
+     <None Include="Assets\Daikon Forge\Examples\Skins\Fantasy\Fonts\Open Sans\Heiro-OpenSans-Regular-12px.fnt" />
      <None Include="Assets\Plugins\uLink\Assembly\uLink.xml" />
+     <None Include="Assets\Daikon Forge\DFGUI\Shaders\Default UI Shader.shader" />
+     <None Include="Assets\Daikon Forge\Examples\Shaders\TechBlueShader.shader" />
+     <None Include="Assets\Daikon Forge\Examples\Skins\TechBlue\OpenSans-Semibold-18px.fnt" />
+     <None Include="Assets\Daikon Forge\Examples\Skins\TechBlue\title-text.fnt" />
+     <None Include="Assets\Daikon Forge\Examples\Skins\TechBlue\OpenSans-SemiBold-56px.fnt" />
      <None Include="Assets\Resources\uLinkPrefs.txt" />
+     <None Include="Assets\Daikon Forge\Examples\Skins\AnimatedSprite\OpenSans-Semibold-18px.fnt" />
+     <None Include="Assets\Daikon Forge\Examples\Resources\Fonts\SIL Open Font License.txt" />
+     <None Include="Assets\Daikon Forge\Examples\Color Picker\Shaders\ColorPickerHue.shader" />
+     <None Include="Assets\Daikon Forge\DFGUI\Shaders\Dynamic Font Shader.shader" />
+     <None Include="Assets\Daikon Forge\Examples\Color Picker\Shaders\ColoredCharacterShader.shader" />
+     <None Include="Assets\Daikon Forge\Examples\Color Picker\Shaders\ColorPickerHSB.shader" />
+     <None Include="Assets\Daikon Forge\Resources\Change Log.txt" />
+     <None Include="Assets\Daikon Forge\Examples\Shaders\Radar Sweep Shader.shader" />
+     <None Include="Assets\Daikon Forge\Examples\Skins\TechBlue\OpenSans-Semibold-14px.fnt" />
+     <None Include="Assets\Daikon Forge\Examples\Labels\Atlas\Huggable.fnt" />
+     <None Include="Assets\Daikon Forge\Examples\Resources\Fonts\OpenSans Font License.txt" />
+     <None Include="Assets\Daikon Forge\Examples\Skins\TechBlue\LCD Font.fnt" />
+     <None Include="Assets\Daikon Forge\Examples\Skins\Fantasy\Fonts\Open Sans\Heiro-OpenSans-Regular-20px.fnt" />
+     <None Include="Assets\Daikon Forge\Examples\Skins\Fantasy\Fonts\Open Sans\Heiro-OpenSans-Regular-16px.fnt" />
  <Reference Include="uLink">
  <HintPath>Assets\Plugins\uLink\Assembly\uLink.dll</HintPath>
+ </Reference>
+ <Reference Include="dfScriptLite">
+ <HintPath>Assets\Daikon Forge\DataBinding\Plugins\dfScriptLite.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

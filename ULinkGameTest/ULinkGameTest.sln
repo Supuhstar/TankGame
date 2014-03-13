@@ -7,6 +7,8 @@ Project("{BD2EE170-D9A1-CDEA-0B04-67F5AE4E3351}") = "ULinkGameTest", "Assembly-C
 EndProject
 Project("{BD2EE170-D9A1-CDEA-0B04-67F5AE4E3351}") = "ULinkGameTest", "Assembly-CSharp-Editor-firstpass.csproj", "{B140B5F0-BBAD-1B68-0FD6-D0F49E898E6E}"
 EndProject
+Project("{BD2EE170-D9A1-CDEA-0B04-67F5AE4E3351}") = "ULinkGameTest", "Assembly-CSharp-Editor.csproj", "{BEEB0DF1-C24C-D3BE-22BE-2F8DDF52568D}"
+EndProject
 Project("{BD2EE170-D9A1-CDEA-0B04-67F5AE4E3351}") = "ULinkGameTest", "Assembly-UnityScript-firstpass.unityproj", "{0BF7526C-0B6A-7DAC-66E1-5BC39909738A}"
 EndProject
 Global
@@ -27,6 +29,10 @@ Global
 		{B140B5F0-BBAD-1B68-0FD6-D0F49E898E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B140B5F0-BBAD-1B68-0FD6-D0F49E898E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B140B5F0-BBAD-1B68-0FD6-D0F49E898E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEEB0DF1-C24C-D3BE-22BE-2F8DDF52568D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEEB0DF1-C24C-D3BE-22BE-2F8DDF52568D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEEB0DF1-C24C-D3BE-22BE-2F8DDF52568D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEEB0DF1-C24C-D3BE-22BE-2F8DDF52568D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0BF7526C-0B6A-7DAC-66E1-5BC39909738A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0BF7526C-0B6A-7DAC-66E1-5BC39909738A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BF7526C-0B6A-7DAC-66E1-5BC39909738A}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -35,7 +41,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																											GlobalSection(MonoDevelopProperties) = preSolution
+																															GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
