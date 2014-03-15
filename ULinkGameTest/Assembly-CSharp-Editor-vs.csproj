@@ -135,6 +135,9 @@
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
+ <Reference Include="dfScriptLite">
+ <HintPath>Assets\Daikon Forge\DataBinding\Plugins\dfScriptLite.dll</HintPath>
+ </Reference>
  <Reference Include="uLinkEditor">
  <HintPath>Assets\Plugins\Editor\uLink\Assembly\uLinkEditor.dll</HintPath>
  </Reference>
@@ -158,9 +161,6 @@
  </Reference>
  <Reference Include="UnityEditor.Android.Extensions">
  <HintPath>C:\Program Files (x86)\Unity\Editor\Data\PlaybackEngines\AndroidPlayer\EditorExtensions\UnityEditor.Android.Extensions.dll</HintPath>
- </Reference>
- <Reference Include="dfScriptLite">
- <HintPath>Assets\Daikon Forge\DataBinding\Plugins\dfScriptLite.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>

@@ -96,11 +96,11 @@
      <None Include="Assets\Daikon Forge\Examples\Skins\TechBlue\LCD Font.fnt" />
      <None Include="Assets\Daikon Forge\Examples\Skins\Fantasy\Fonts\Open Sans\Heiro-OpenSans-Regular-20px.fnt" />
      <None Include="Assets\Daikon Forge\Examples\Skins\Fantasy\Fonts\Open Sans\Heiro-OpenSans-Regular-16px.fnt" />
- <Reference Include="uLink">
- <HintPath>Assets\Plugins\uLink\Assembly\uLink.dll</HintPath>
- </Reference>
  <Reference Include="dfScriptLite">
  <HintPath>Assets\Daikon Forge\DataBinding\Plugins\dfScriptLite.dll</HintPath>
+ </Reference>
+ <Reference Include="uLink">
+ <HintPath>Assets\Plugins\uLink\Assembly\uLink.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

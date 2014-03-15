@@ -261,11 +261,11 @@
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
- <Reference Include="uLink">
- <HintPath>Assets\Plugins\uLink\Assembly\uLink.dll</HintPath>
- </Reference>
  <Reference Include="dfScriptLite">
  <HintPath>Assets\Daikon Forge\DataBinding\Plugins\dfScriptLite.dll</HintPath>
+ </Reference>
+ <Reference Include="uLink">
+ <HintPath>Assets\Plugins\uLink\Assembly\uLink.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
