@@ -231,7 +231,9 @@
      <Compile Include="Assets\Daikon Forge\Tweening\Scripts\dfTweenVector3.cs" />
      <Compile Include="Assets\Daikon Forge\Tweening\Scripts\dfTweenVector4.cs" />
      <Compile Include="Assets\_Scripts\Follow.cs" />
+     <Compile Include="Assets\_Scripts\HealthDisplayManager.cs" />
      <Compile Include="Assets\_Scripts\PlayerNet.cs" />
+     <Compile Include="Assets\_Scripts\ResizeGUI.cs" />
      <Compile Include="Assets\_Scripts\ServerNet.cs" />
      <Compile Include="Assets\_Scripts\Spawner.cs" />
      <None Include="Assets\Daikon Forge\Examples\Skins\Fantasy\Fonts\Open Sans\Heiro-OpenSans-Regular-24px.fnt" />
