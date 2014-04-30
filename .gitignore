@@ -14,3 +14,7 @@
 /*.userprefs
 /*.pidb
 /*.booproj
+
+# Backup files
+*.bak
+/nppBackup
