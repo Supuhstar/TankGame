@@ -3,8 +3,8 @@ TankGame
 
 A game for the Senior Software Engineering Project
 
-Participants
-------------
+Team Smitty Webenjagermanjensen
+-------------------------------
 
  * Matt LaForge
  * Ben Leggiero
